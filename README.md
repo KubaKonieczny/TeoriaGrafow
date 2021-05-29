@@ -5,7 +5,9 @@ W pliku .pdf znajdują się rozwiązania zadań z tej części.
 
 ## Część programistyczna
 W pliku main.py znajduje się zaimplementowany w języku Python algorytm. 
+
 Program używa blibliteki networkX oraz collections
+
 Aby program działał pliki .txt i main.py muszą być w tym samym folderze 
 
 Pliki .txt mają format:
