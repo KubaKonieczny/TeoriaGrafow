@@ -26,7 +26,7 @@ Pliki .txt mają format:
 
      * każda linia zawiera jedną krawędź w której dane odzielone są spacją
      
-     * w formacie:
+     * Format lini:
 
        * wierchołek_początkowy_krawedzi wierzchołek_końcowy_krawędzi waga_krawędzi
 
