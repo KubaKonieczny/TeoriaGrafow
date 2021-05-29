@@ -20,7 +20,7 @@ Pliki .txt mają format:
      * każada linia zawiera naprzemiennie ciąg liczb odpowiadacych wierzcchołkowi końcowem oraz wadze również odzelonych spacją 
      * Format:
 
-      * wierzchołek_końcowy_krawędzi waga_krawędzi wierzchokłek_końcowy_krawędzi waga_krawędzi ....
+       * wierzchołek_końcowy_krawędzi waga_krawędzi wierzchokłek_końcowy_krawędzi waga_krawędzi ....
 
    * Dla listy krawędzi:
 
