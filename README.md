@@ -1,4 +1,4 @@
-<center> <h1> # TeoriaGrafow </h1> </center>
+ #                   TeoriaGrafow 
 
 ## Część analityczna
 W pliku .pdf znajdują się rozwiązania zadań z tej części.
