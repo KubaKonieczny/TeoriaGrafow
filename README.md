@@ -10,7 +10,7 @@ Aby program działał pliki .txt i main.py muszą być w tym samym folderze
 
 Pliki .txt mają format:
 *  W pierwszej lini znajdują się wierzchołek początkowy oraz końcowy oddzielone spacją
-  * wierchołek_początkowy wierzchołek_końcowy
+   * wierchołek_początkowy wierzchołek_końcowy
 * Kolejne linie zależą od formatu pliku
 
   * Dla listy sąsiedztwa:
