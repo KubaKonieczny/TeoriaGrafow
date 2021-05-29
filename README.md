@@ -10,6 +10,7 @@ Aby program działał pliki .txt i main.py muszą być w tym samym folderze
 
 Pliki .txt mają format:
 *  W pierwszej lini znajdują się wierzchołek początkowy oraz końcowy oddzielone spacją
+  * wierchołek_początkowy wierzchołek_końcowy
 * Kolejne linie zależą od formatu pliku
 
   * Dla listy sąsiedztwa:
@@ -17,8 +18,9 @@ Pliki .txt mają format:
     * każada kolejna linia odpwoiada kolenym wierzchołkom 
 
      * każada linia zawiera naprzemiennie ciąg liczb odpowiadacych wierzcchołkowi końcowem oraz wadze również odzelonych spacją 
+     * Format:
 
-    * wierzchołek_końcowy_krawędzi waga_krawędzi wierzchokłek_końcowy_krawędzi waga_krawędzi....
+      * wierzchołek_końcowy_krawędzi waga_krawędzi wierzchokłek_końcowy_krawędzi waga_krawędzi ....
 
    * Dla listy krawędzi:
 
