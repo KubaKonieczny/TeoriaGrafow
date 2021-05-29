@@ -13,16 +13,16 @@ Pliki .txt mają format:
   oraz 
 * Dla listy sąsiedztwa:
 
- ** każada kolejna linia odpwoiada kolenym wierzchołkom 
+  * każada kolejna linia odpwoiada kolenym wierzchołkom 
   
- ** każada linia zawiera naprzemiennie ciąg liczb odpowiadacych wierzcchołkowi końcowem oraz wadze również odzelonych spacją 
+   * każada linia zawiera naprzemiennie ciąg liczb odpowiadacych wierzcchołkowi końcowem oraz wadze również odzelonych spacją 
   
- ** wierzchołek_końcowy_krawędzi waga_krawędzi wierzchokłek_końcowy_krawędzi waga_krawędzi....
+  * wierzchołek_końcowy_krawędzi waga_krawędzi wierzchokłek_końcowy_krawędzi waga_krawędzi....
   
  * Dla listy krawędzi:
  
-  ** każda linia zawiera jedną krawędź w formacie:
+  * każda linia zawiera jedną krawędź w formacie:
   
-  ** wierchołek_początkowy_krawedzi wierzchołek_końcowy_krawędzi waga_krawędzi
+  * wierchołek_początkowy_krawedzi wierzchołek_końcowy_krawędzi waga_krawędzi
   
-  ** również odzielownych spacją
+  * również odzielownych spacją
