@@ -13,7 +13,7 @@ W pliku main.py znajduje się zaimplementowany w języku Python algorytm.
 Aby program działał pliki .txt i main.py muszą być w tym samym folderze 
 
 Pliki .txt mają format:
-*  W pierwszej lini znajdują się wierzchołek początkowy oraz końcowy oddzielone spacją
+*  W pierwszej lini znajdują się wierzchołek początkowy oraz końcowy oddzielone spacją:
    * źródło ujście
 * Kolejne linie zależą od formatu pliku
 
