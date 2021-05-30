@@ -32,7 +32,7 @@ Pliki .txt mają format:
      
      * Format lini:
 
-       * wierzchołek_początkowy_krawedzi wierzchołek_końcowy_krawędzi waga_krawędzi
+       * wierzchołek_początkowy_krawędzi wierzchołek_końcowy_krawędzi waga_krawędzi
 
 
  * przykład listy sąsiedztwa:
