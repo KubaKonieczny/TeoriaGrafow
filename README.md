@@ -19,9 +19,9 @@ Pliki .txt mają format:
 
   * Dla listy sąsiedztwa:
 
-    * każda kolejna linia odpowiada kolenym wierzchołkom 
+    * każda kolejna linia odpowiada kolejnym wierzchołkom 
 
-     * każda linia zawiera naprzemiennie ciąg liczb odpowiadacych wierzchołkowi końcowemu krawędzi oraz wadze również oddzielonych spacją 
+     * każda linia zawiera naprzemiennie ciąg liczb odpowiadających wierzchołkowi końcowemu krawędzi oraz wadze również oddzielonych spacją 
      * Format lini:
 
        * wierzchołek_końcowy_krawędzi waga_krawędzi wierzchołek_końcowy_krawędzi waga_krawędzi ....
