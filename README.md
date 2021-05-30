@@ -36,14 +36,16 @@ Pliki .txt mają format:
 
 
   * przykład listy sąsiedztwa:
-  ''' 
-  
-  
-  
-  '''
+  ```
+  1 4
+2 2 3 5 4 6 3 4
+1 6 2 5 4 2
+1 8 2 4 4 1
+1 3 2 7
+ ```
   
   *Przykład listy krawędzi:
-  '''
+ ```
   1 5
 1 2 3
 1 3 4
@@ -53,7 +55,7 @@ Pliki .txt mają format:
 3 5 7
 1 4 6
 2 3 2
-'''
+```
   
   
 
