@@ -4,7 +4,7 @@
 W pliku .pdf znajdują się rozwiązania zadań z tej części.
 
 ## Część programistyczna
-W pliku Analiza algorytmu - Jakub Konieczny.docx zanjdują się omówienie metody Forda-Fulkersona 
+W pliku Analiza algorytmu - Jakub Konieczny.docx zanjduje się omówienie metody Forda-Fulkersona 
 
 W pliku main.py znajduje się zaimplementowany w języku Python algorytm. 
 
