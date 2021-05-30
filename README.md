@@ -34,4 +34,27 @@ Pliki .txt mają format:
 
        * wierzchołek_początkowy_krawedzi wierzchołek_końcowy_krawędzi waga_krawędzi
 
+
+  * przykład listy sąsiedztwa:
+  ''' 
+  
+  
+  
+  '''
+  
+  *Przykład listy krawędzi:
+  '''
+  1 5
+1 2 3
+1 3 4
+4 2 6
+5 2 2
+2 3 5
+3 5 7
+1 4 6
+2 3 2
+'''
+  
+  
+
   
