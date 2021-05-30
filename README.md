@@ -19,16 +19,16 @@ Pliki .txt mają format:
 
   * Dla listy sąsiedztwa:
 
-    * każada kolejna linia odpwoiada kolenym wierzchołkom 
+    * każda kolejna linia odpowiada kolenym wierzchołkom 
 
-     * każada linia zawiera naprzemiennie ciąg liczb odpowiadacych wierzcchołkowi końcowem oraz wadze również odzelonych spacją 
+     * każda linia zawiera naprzemiennie ciąg liczb odpowiadacych wierzchołkowi końcowemu krawędzi oraz wadze również oddzielonych spacją 
      * Format lini:
 
-       * wierzchołek_końcowy_krawędzi waga_krawędzi wierzchokłek_końcowy_krawędzi waga_krawędzi ....
+       * wierzchołek_końcowy_krawędzi waga_krawędzi wierzchołek_końcowy_krawędzi waga_krawędzi ....
 
    * Dla listy krawędzi:
 
-     * każda linia zawiera jedną krawędź w której dane odzielone są spacją
+     * każda linia zawiera jedną krawędź w której dane oddzielone są spacją
      
      * Format lini:
 
